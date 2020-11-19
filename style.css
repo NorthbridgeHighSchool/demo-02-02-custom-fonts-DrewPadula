@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+
+html {
+  background-color: #E2AEFF
+}
+h1 {
+  font-family: "Abril Fatface", serif;
+  font-size: 40pt;
+}
+h2 {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-style: oblique
+}
+img {
+  max-height: 200px
+}
